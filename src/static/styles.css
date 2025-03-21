@@ -82,7 +82,7 @@ section h3 {
 .activity-card ul li {
   margin-bottom: 5px;
   color: #555;
-  background-color: #e6f7ff; /* Light blue background */
+  background-color: #e6f7ff; /* Light blue background for participant */
   padding: 5px;
   border-radius: 3px;
 }
